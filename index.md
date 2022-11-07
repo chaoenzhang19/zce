@@ -5,10 +5,10 @@ Harbin Institute of Technology
 
 No.92, Xidazhi Street, 
 
-Harbin, 150001, PR China
+Harbin, 150001, P.R. China
 
-Email:  chaoenz@gmail.com (primary)
-   or  chaoenzhang@hit.edu.cn 
+Email:  chaoenz at gmail.com (primary)
+   or  chaoenzhang at hit.edu.cn 
 
 
 
