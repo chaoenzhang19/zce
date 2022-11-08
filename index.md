@@ -14,7 +14,7 @@ Email:  chaoenz at gmail.com (primary)
 
 ## Personal information
 
-Currently I am a lecturer at [Institute for Advanced Study in Mathematics of Harbin Institute of Technology](http://im.hit.edu.cn/). I completed my PhD thesis in [Laboratoire de Mathématiques Blaise Pascal (LMBP) at Université Clermont Auvergne](https://lmbp.uca.fr/) under the direction of Professors [Arnaud Guillin](https://lmbp.uca.fr/~guillin/) and [Liming Wu](https://lmbp.uca.fr/~wuliming/).  
+Currently I am a lecturer at [Institute for Advanced Study in Mathematics of Harbin Institute of Technology](http://im.hit.edu.cn/). I completed my PhD thesis in [Laboratoire de Mathématiques Blaise Pascal (LMBP)](https://lmbp.uca.fr/) at [Université Clermont Auvergne](https://uca.fr/) under the direction of Professors [Arnaud Guillin](https://lmbp.uca.fr/~guillin/) and [Liming Wu](https://lmbp.uca.fr/~wuliming/).  
 
 
 
