@@ -14,7 +14,7 @@ Email:  chaoenz at gmail.com (primary)
 
 ## Personal information
 
-Currently I am a postdoctoral lecturer at [Institute for Advanced Study in Mathematics of Harbin Institute of Technology](http://im.hit.edu.cn/). I completed my PhD thesis in [Laboratoire de Mathématiques Blaise Pascal (LMBP)](https://lmbp.uca.fr/) at [Université Clermont Auvergne](https://uca.fr/) under the direction of Professors [Arnaud Guillin](https://lmbp.uca.fr/~guillin/) and [Liming Wu](https://lmbp.uca.fr/~wuliming/).  
+Currently I am a tenure-track associate professor at [Institute for Advanced Study in Mathematics of Harbin Institute of Technology](http://im.hit.edu.cn/). I completed my PhD thesis in [Laboratoire de Mathématiques Blaise Pascal (LMBP)](https://lmbp.uca.fr/) at [Université Clermont Auvergne](https://uca.fr/) under the direction of Professors [Arnaud Guillin](https://lmbp.uca.fr/~guillin/) and [Liming Wu](https://lmbp.uca.fr/~wuliming/).  
 
 
 
@@ -25,6 +25,8 @@ My research interests are in kinetic theory and functional inequalities.
 
 
 ## Publication
+
+Hypocoercivity and global hypoellipticity for the kinetic Fokker-Planck equation in $H^k$ spaces, *Kinet. Relat. Models*, 2024, 17(3): 394-435.
 
 Uniform Poincaré and logarithmic Sobolev inequalities for mean field particle systems (with Arnaud Guillin, Wei Liu and Liming Wu), *Ann. Appl. Probab.* 32 (2022), no. 3, 1590–1614.
 
